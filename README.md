@@ -1,2 +1,2 @@
-# debunk-js
+# filtr-js-client
 Debunk Javascript API client
